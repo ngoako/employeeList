@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+/*The whole body*/
+body{
+    background: url("images/tree.jpeg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    line-height: 1.5;
+    overflow-x: hidden;
+    /*background-color: #000000;*/
+}
+/*The navigation*/
+.navbar-brand,
+.nav-link{
+    color: #ffffff;
+}
+.nav-link:hover, .navbar-brand:hover{
+    color: #2eceeb;
+}
+.titles{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 7%;
+}
+
+.addForm {
+    margin-left: 550px;
+    margin-top: 50px;
+
+}
+.addForm label{
+    color: #ffffff;
+}
+.addForm input{
+    color: #ffffff;
+}
+h3 .tit{
+    margin-left: 500px;
+    
+}
+.btn-info{
+    margin-right: 30px;
+}
+.btn-secondary{
+    padding: auto;
+}

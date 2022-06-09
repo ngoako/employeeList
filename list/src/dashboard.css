@@ -1,0 +1,37 @@
+.createNewButton{
+    margin-left: 110px;
+    margin-top: 70px;
+    margin-bottom: 5px;
+    color: #ffffff;
+    border: none;
+}
+.createNewButton span{
+    margin-left: 270px;
+}
+/*Dashboard starts*/
+.container .tab {
+    width: 1323px;
+    height: 340px;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin-top: 20px;
+    }
+    
+    .table-striped th,td{
+    color: #ffffff;
+    }
+    .table-striped tbody{
+    background-color: rgba(0, 0, 0, 0.6);
+    }
+    .tab table {
+    border-collapse: separate;
+    border-spacing: 0 12px;
+    }
+    .action{
+        margin-left: 20px;
+    }
+    .action :hover{
+        cursor: pointer;
+    }
+/*     .table{
+        overflow-y: hidden;
+    } */
